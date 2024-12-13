@@ -54,4 +54,9 @@ plan:
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/carbon-credit-token.clar
             clarity-version: 2
+        - emulated-contract-publish:
+            contract-name: carbon-offset-projects
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/carbon-offset-projects.clar
+            clarity-version: 2
       epoch: "2.5"
