@@ -7,3 +7,5 @@ U
 %contracts/carbon-offset-projects.clar,2/7/27f6a90ce3ba38c0e2e1ca9c0edcf5ab86f2ff3b
 T
 $tests/carbon-offset-projects.test.ts,0/a/0ac8f14dd9677c58cc1c95bc1a48e04f0e127e68
+X
+(contracts/carbon-credit-marketplace.clar,f/7/f74c0bad8d9696c7314625cc4e30dfbbe59cf957
